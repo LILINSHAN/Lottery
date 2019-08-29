@@ -1,0 +1,30 @@
+﻿<Window x:Class="MainView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="600" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Name="Button_Main" Grid.Row="1" Grid.Column="1" Margin="5,5,5,5" Content="开始" FontSize="32" Click="Button_Main_Click"/>
+        <TextBox Name="TextBox_1" Grid.Row="0" Grid.Column="0" Text="1" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_2" Grid.Row="0" Grid.Column="1" Text="2" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_3" Grid.Row="0" Grid.Column="2" Text="3" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_4" Grid.Row="1" Grid.Column="2" Text="4" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_5" Grid.Row="2" Grid.Column="2" Text="5" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_6" Grid.Row="2" Grid.Column="1" Text="6" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_7" Grid.Row="2" Grid.Column="0" Text="7" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+        <TextBox Name="TextBox_8" Grid.Row="1" Grid.Column="0" Text="8" FontSize="32" Width="190" Height="190" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True"/>
+    </Grid>
+</Window>
