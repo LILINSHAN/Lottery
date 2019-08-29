@@ -1,0 +1,15 @@
+D:\File\Project\Lottery\MainView\bin\Debug\MainView.exe
+D:\File\Project\Lottery\MainView\bin\Debug\MainView.pdb
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.csprojAssemblyReference.cache
+D:\File\Project\Lottery\MainView\obj\Debug\MainWindow.g.cs
+D:\File\Project\Lottery\MainView\obj\Debug\App.g.cs
+D:\File\Project\Lottery\MainView\obj\Debug\MainView_MarkupCompile.cache
+D:\File\Project\Lottery\MainView\obj\Debug\MainView_MarkupCompile.lref
+D:\File\Project\Lottery\MainView\obj\Debug\MainWindow.baml
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.g.resources
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.Properties.Resources.resources
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.csproj.GenerateResource.cache
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.csproj.CoreCompileInputs.cache
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.exe
+D:\File\Project\Lottery\MainView\obj\Debug\MainView.pdb
+D:\File\Project\Lottery\MainView\bin\Debug\MainView.exe.config
